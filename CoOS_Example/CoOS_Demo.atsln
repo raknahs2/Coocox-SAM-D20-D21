@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "CoOS_Demo", "CoOS_Demo.cproj", "{AF641A5F-7898-4E90-860D-5B60C4187BA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF641A5F-7898-4E90-860D-5B60C4187BA0}.Debug|ARM.ActiveCfg = Debug|ARM
+		{AF641A5F-7898-4E90-860D-5B60C4187BA0}.Debug|ARM.Build.0 = Debug|ARM
+		{AF641A5F-7898-4E90-860D-5B60C4187BA0}.Release|ARM.ActiveCfg = Release|ARM
+		{AF641A5F-7898-4E90-860D-5B60C4187BA0}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
